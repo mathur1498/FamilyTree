@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q3X/INGYQOTtm+AS9QcoEetsb6vkUvJkiRdXQBi5RzyKwnHvCZFySfnjmvnP9TXPs979GE8E+q71nEWllbQKCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yash Mathur\\source\\repos\\Family\\Family\\Family.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yash Mathur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
